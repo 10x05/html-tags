@@ -1,2 +1,2 @@
-# html-tags-for-my-first-tech-ada-task
+# html-tags (for my first ADA Frontend task)
 This is basically html tags beginners should know
